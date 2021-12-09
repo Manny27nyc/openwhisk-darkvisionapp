@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {},
   "dependencies": {
-    "@ibm-functions/iam-token-manager": "1.0.4",
+    "@ibm-functions/iam-token-manager": "1.0.7",
     "async": "2.1.4",
     "dotenv": "4.0.0",
     "node-zip": "1.1.1",
