@@ -7,7 +7,7 @@
     "fluent-ffmpeg": "2.1.0",
     "@cloudant/cloudant": "4.2.4",
     "rimraf": "2.5.4",
-    "tmp": "0.0.31",
+    "tmp": "0.2.1",
     "request": "2.79.0",
     "ibm-cos-sdk": "1.2.0",
     "pkgcloud": "1.4.0"
