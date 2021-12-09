@@ -4,7 +4,7 @@
   "description": "Extracts frames from videos",
   "dependencies": {
     "async": "2.1.4",
-    "fluent-ffmpeg": "2.1.0",
+    "fluent-ffmpeg": "2.1.2",
     "@cloudant/cloudant": "4.2.4",
     "rimraf": "2.5.4",
     "tmp": "0.0.31",
