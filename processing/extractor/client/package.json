@@ -10,7 +10,7 @@
     "tmp": "0.0.31",
     "request": "2.79.0",
     "ibm-cos-sdk": "1.2.0",
-    "pkgcloud": "1.4.0"
+    "pkgcloud": "2.0.0"
   },
   "repository": {
     "type": "git",
