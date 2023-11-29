@@ -8,9 +8,9 @@
     "@cloudant/cloudant": "4.2.4",
     "rimraf": "2.5.4",
     "tmp": "0.0.31",
-    "request": "2.79.0",
-    "ibm-cos-sdk": "1.2.0",
-    "pkgcloud": "1.4.0"
+    "request": "2.80.0",
+    "ibm-cos-sdk": "1.2.1",
+    "pkgcloud": "2.0.0"
   },
   "repository": {
     "type": "git",
