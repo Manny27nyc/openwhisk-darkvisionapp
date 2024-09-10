@@ -9,18 +9,18 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@cloudant/cloudant": "4.2.4",
-    "async": "2.1.4",
-    "cfenv": "1.0.3",
-    "compression": "1.6.2",
-    "express": "4.14.0",
+    "async": "2.6.4",
+    "cfenv": "1.2.4",
+    "compression": "1.7.4",
+    "express": "4.19.2",
     "http-auth": "3.1.1",
-    "ibm-cos-sdk": "1.2.0",
+    "ibm-cos-sdk": "1.13.4",
     "mkdirp": "0.5.1",
     "multer": "1.2.1",
     "node-cache": "4.1.1",
     "node-env-file": "0.1.8",
-    "pkgcloud": "1.4.0",
-    "request": "2.79.0"
+    "pkgcloud": "2.2.0",
+    "request": "2.88.2"
   },
   "repository": {
     "type": "git",

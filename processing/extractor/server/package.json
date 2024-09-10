@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Listens for invocation from Cloud Functions and calls the extractor client",
   "dependencies": {
-    "body-parser": "1.15.2",
-    "express": "4.14.0"
+    "body-parser": "1.20.3",
+    "express": "4.19.2"
   },
   "repository": {
     "type": "git",
